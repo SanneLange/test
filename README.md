@@ -3,7 +3,7 @@
 # Calculator App
  This repository contains a *calculator* app.
  It can do the following:
- - [ ] Add
+ - [x] Add
  - [ ] Substract
  - [ ] Divide
  - [ ] Multiply

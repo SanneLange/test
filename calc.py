@@ -3,9 +3,8 @@
 def multiply(lh,rh):
     return lh*rh
 
-
-def subtract(lh, rh):
-    return left_hand - right_hand
+def subtract(lefth, righth):
+    return lefth - righth
 
 
 def add(left_hand, right_hand):

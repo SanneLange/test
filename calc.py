@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 
+def multiply(lh,rh):
+    return lh*rh
 
 def subtract(lefth, righth):
     return lefth - righth
+
 
 def add(left_hand, right_hand):
     return left_hand + right_hand
